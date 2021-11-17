@@ -19,6 +19,6 @@ public class employee1 {
         e2.display();
     }
 }
-/* when the variable is declared static the a single copy of variable is created and shared among all the
+/* when the variable is declared static then a single copy of variable is created and shared among all the
 object of the class.
  */
